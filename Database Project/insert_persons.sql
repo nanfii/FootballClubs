@@ -11,6 +11,10 @@ VALUES
 
 
 
+
+
+
+
 INSERT INTO Person (first_name, middle_name, last_name, email, password, gender, age, salary, date_of_joining, date_of_birth, phone_number, city, street, house_number, pobox)
 VALUES
     ('Biruk', 'Abebe', 'Girma', 'biruk@example.com', 'password51', 'Male', 26, 4700, '2023-06-18', '1996-02-25', '+251916543210', 'Addis Ababa', 'Bole', 1314, 'P.O. Box 1415'),
